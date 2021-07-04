@@ -1,8 +1,6 @@
 #!/usr/bin/dev python3
 # -*- coding: utf-8 -*-
 
-'access_control_exercise.py'
-
 __author__ = 'MoogleAndChocobo'
 
 class Student(object):
